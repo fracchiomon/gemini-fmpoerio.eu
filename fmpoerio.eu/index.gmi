@@ -1,4 +1,6 @@
-```Site logo                                         
+# Welcome to fmpoerio.eu
+
+```Site logo: ASCII art with text "fmpoerio.eu"                                   
 
 ███████╗███╗   ███╗██████╗  ██████╗ ███████╗██████╗ ██╗ ██████╗            ███████╗██╗   ██╗
 ██╔════╝████╗ ████║██╔══██╗██╔═══██╗██╔════╝██╔══██╗██║██╔═══██╗           ██╔════╝██║   ██║
@@ -29,7 +31,7 @@ Io sono Francesco Maria, 'Fracchio' o 'Fracchiomon' per tutti; sono uno studente
 
 Vorrei dirlo io, ma lascio a chi ci è già da prima, e lo sa spiegare meglio di me:
 
-=> documentazione/index.gmi Introduzione a Gemini
+=> documentazione/index.gmi Introduzione a Gemini (a cura di Gemini-Italia)
 
 --------------------------------------------------------------------------------
 
