@@ -1,4 +1,4 @@
-# 18 Ottobre 2021 - Lanci, lezioni e materia bianca
+# 18.10.2021: Lanci, lezioni e materia bianca
 
 ----------------------------------------
 
@@ -11,3 +11,9 @@ Mistero.
 Ci sentiamo presto, cicci.
 
 Fracchio
+
+---------------------------------------------
+
+=> gemini://fmpoerio.eu/blog/blog.gmi Torna Al Blog
+=> gemini://fmpoerio.eu/index.gmi Homepage
+

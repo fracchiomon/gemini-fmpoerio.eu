@@ -7,9 +7,13 @@ Un po' di tutto: musica, film, disavventure, università, opinioni socio-politic
 Insomma, qui si parlerà un po' di tutto, ma sempre male.
 Buon proseguimento. <3 (dovrebbe essere un cuoricino ma vabè.)
 
+=> gemini://fmpoerio.eu/index.gmi Homepage
+
 ----------------------------------------
 
 ## Blog Posts
 
-### 
-=> gemini://localhost:1965/blog/articles/2021-10-18.gmi 18.10.2021: Lanci, lezioni, e materia bianca
+=> articles/2021-10-18.gmi 2021-10-18: Lanci, lezioni, e materia bianca
+=> articles/2021-10-19.gmi 2021-10-19: It's On!
+=> articles/2021-10-20.gmi 2021-10-20: Oggi vince Bruno.
+=> articles/2021-10-21.gmi 2021-10-21: Quando la curva inizia la sua discesa

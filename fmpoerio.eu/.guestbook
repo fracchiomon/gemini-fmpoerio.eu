@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+GUESTBOOK_PATH="guestbook.gmi"              # GUESTBOOK relative path
+GUESTBOOK_URL="gemini://fmpoerio.eu/guestbook.gmi"               # GUESTBOOK URL
+GUESTBOOK_MESSAGES_START_LINE=9 # the line of the GUESTBOOK at which the messages are to be inserted
+MAX_MESSAGES=100                  # maximal number of messages in GUESTBOOK
+
+decode_percent_encoding(){
+     echo "$1" | sed 's@+@ @g;s@%@\\x@g' | xargs -0 printf "%b"
+}
+
+if [[ "$QUERY_STRING" != "" ]]; then
+    message=$(decode_percent_encoding "$QUERY_STRING")
+    date=$(date +%Y-%m-%d)
+    tmpfile=$(mktemp)
+    if (( $(wc -l "$GUESTBOOK_PATH" | cut -d' ' -f1) < GUESTBOOK_MESSAGES_START_LINE + MAX_MESSAGES )); then
+       cat <(head -n$((GUESTBOOK_MESSAGES_START_LINE - 1)) "$GUESTBOOK_PATH") <(echo "$date - $message") <(tail -n +"$GUESTBOOK_MESSAGES_START_LINE" "$GUESTBOOK_PATH") > "$tmpfile"
+       cat "$tmpfile" > "$GUESTBOOK_PATH"
+       printf "30 $GUESTBOOK_URL\r\n"
+    fi
+else
+    printf "10 Leave a message.\r\n"
+fi

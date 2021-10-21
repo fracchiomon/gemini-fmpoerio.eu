@@ -1,0 +1,12 @@
+# 19.10.2021: It's On!
+
+Alle ore 22:52, dopo aggiustamenti e 'fiddling' vari tra DynamicDNS, TLS Certificates e compagnia bella, finalmente la capsula Gemini ha preso il volo, sul micro-server d'emergenza, il caro RaspberryPi 3B+ (migliori 20 € mai spesi probabilmente!).
+Ragazzi, è una bella cosa, anche se tanto non darò chissà che contributo alla comunità, ma è bello esserci, è bello aver concluso un piccolo passo.
+E' bello essere in orbita!
+
+Stay tuned.
+
+## Fracchio
+
+=> gemini://fmpoerio.eu/index.gmi Homepage
+=> gemini://fmpoerio.eu/blog/blog.gmi Torna al Blog
