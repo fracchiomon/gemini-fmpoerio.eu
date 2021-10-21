@@ -1,0 +1,3 @@
+# exclude certificate directory from being uploaded
+
+/fmpoerio.eu/.certificates/*
