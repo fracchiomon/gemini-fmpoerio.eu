@@ -23,14 +23,14 @@ My name is Francesco Maria, but you can call me "Fracchio" or "Fracchiomon"; I'm
 
 ---
 
-#### What's Gemini?
+### What's Gemini?
 
 I could tell it myself, but others can do it much better than me:  
 [An Introduction to Gemini](gemini://gemini.circumlunar.space/docs/faq.gmi)
 
 ---
 
-#### What am I running this thing on?
+### What am I running this thing on?
 
 At the moment of writing (10-22-2021) my fac-simile server has left me because of a RAM failure, so I'm running in emergency mode:  
 * RaspberryPi 3B+
