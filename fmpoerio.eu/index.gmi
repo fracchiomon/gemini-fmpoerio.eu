@@ -24,7 +24,7 @@ Io sono Francesco Maria, 'Fracchio' o 'Fracchiomon' per tutti; sono uno studente
 
 ### Meet me on Mastodon as @fracchiomon@mastodon.uno
 ### Go to the English Version of this Gemini Capsule! (Work In Progress - Not Complete)
-=> gemini://en.fmpoerio.eu/index.gmi Go to the english version
+=> gemini://en.fmpoerio.eu/index.gmi gemini://en.fmpoerio.eu - ENGLISH VERSION
 ### HTTPS Mirror del sito (Work In Progress!)
 => https://www.fmpoerio.eu fmpoerio.eu
 
