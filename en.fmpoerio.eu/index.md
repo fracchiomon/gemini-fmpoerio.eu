@@ -16,6 +16,7 @@ My name is Francesco Maria, but you can call me "Fracchio" or "Fracchiomon"; I'm
 [To the Blog](blog/blog.gmi)  
 [Listen to me on Spotify](https://open.spotify.com/artist/01zd73k1PgufSFgCq7OEit?si=1JKM4fAkSFSrlbphQsG-vA&utm_source=copy-link&nd=1)  
 
+### Meet me on Mastodon as @fracchiomon@mastodon.uno
 ### Visit the Original Capsule, in Italian language!
 [gemini://fmpoerio.eu - ITALIAN VERSION](gemini://fmpoerio.eu)
 

@@ -22,6 +22,7 @@ Io sono Francesco Maria, 'Fracchio' o 'Fracchiomon' per tutti; sono uno studente
 => https://open.spotify.com/artist/01zd73k1PgufSFgCq7OEit?si=1JKM4fAkSFSrlbphQsG-vA&utm_source=copy-link ♬  Ascoltami su Spotify ♬
 => documentazione/capsule.gmi Elenco di Capsule Gemini in Italiano (a cura di @steko)
 
+### Meet me on Mastodon as @fracchiomon@mastodon.uno
 ### Go to the English Version of this Gemini Capsule! (Work In Progress - Not Complete)
 => gemini://en.fmpoerio.eu/index.gmi Go to the english version
 ### HTTPS Mirror del sito (Work In Progress!)
