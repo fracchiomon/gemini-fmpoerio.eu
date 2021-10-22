@@ -16,10 +16,12 @@ My name is Francesco Maria, but you can call me "Fracchio" or "Fracchiomon"; I'm
 [To the Blog](blog/blog.gmi)  
 [Listen to me on Spotify](https://open.spotify.com/artist/01zd73k1PgufSFgCq7OEit?si=1JKM4fAkSFSrlbphQsG-vA&utm_source=copy-link&nd=1)  
 
+### Visit the Original Capsule, in Italian language!
+[gemini://fmpoerio.eu - ITALIAN VERSION](gemini://fmpoerio.eu)
 
 ### HTTPS Mirror (Work In Progress)
 
-[fmpoerio.eu - ITALIAN VERSION](https://fmpoerio.eu)
+[https://fmpoerio.eu - ITALIAN VERSION](https://fmpoerio.eu)
 
 ---
 
