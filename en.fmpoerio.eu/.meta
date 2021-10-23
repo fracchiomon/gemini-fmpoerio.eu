@@ -1,0 +1,4 @@
+# Meta file for fmpoerio.eu ENG
+
+index.gmi: text/gemini;lang=en_US;charset=UTF-8
+./**/*.gmi: text/gemini;lang=en_US;charset=UTF-8
