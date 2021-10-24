@@ -22,7 +22,7 @@ My name is Francesco Maria, but you can call me "Fracchio" or "Fracchiomon"; I'm
 
 ### HTTPS Mirror (Work In Progress)
 
-[https://fmpoerio.eu - ITALIAN VERSION](https://fmpoerio.eu)
+[https://fmpoerio.eu](https://fmpoerio.eu)
 
 ---
 

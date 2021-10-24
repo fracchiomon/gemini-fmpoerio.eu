@@ -13,7 +13,7 @@ Buon proseguimento.  ♡
 
 ## Blog Posts
 
-=> articles/2021-10-18.gmi 2021-10-18: Lanci, lezioni, e materia bianca
-=> articles/2021-10-19.gmi 2021-10-19: It's On!
-=> articles/2021-10-20.gmi 2021-10-20: Oggi vince Bruno.
 => articles/2021-10-21.gmi 2021-10-21: Quando la curva inizia la sua discesa
+=> articles/2021-10-20.gmi 2021-10-20: Oggi vince Bruno.
+=> articles/2021-10-19.gmi 2021-10-19: It's On!
+=> articles/2021-10-18.gmi 2021-10-18: Lanci, lezioni, e materia bianca

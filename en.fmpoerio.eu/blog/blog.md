@@ -10,7 +10,7 @@ Good reading. ♡
 ---
 ## Blog Posts
 
-[2021-10-18: Starts, lessons, and White Matter](articles/2021-10-18-en.gmi)
-[2021-10-19: It's On!](articles/2021-10-19-en.gmi)
+[2021-10-21: When the curve starts falling](articles/2021-10-21-en.gmi)
 [2021-10-20: Today Bruno wins.](articles/2021-10-20-en.gmi)
-[2021-10-21: When the curve start falling](articles/2021-10-21-en.gmi)
+[2021-10-19: It's On!](articles/2021-10-19-en.gmi)
+[2021-10-18: Starts, lessons, and White Matter](articles/2021-10-18-en.gmi)
