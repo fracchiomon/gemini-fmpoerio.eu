@@ -13,6 +13,7 @@ Buon proseguimento.  ♡
 
 ## Blog Posts
 
+=> articles/2021-10-24.gmi 2021-10-24: Tempo perso
 => articles/2021-10-21.gmi 2021-10-21: Quando la curva inizia la sua discesa
 => articles/2021-10-20.gmi 2021-10-20: Oggi vince Bruno.
 => articles/2021-10-19.gmi 2021-10-19: It's On!
