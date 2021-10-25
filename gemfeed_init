@@ -1,0 +1,1 @@
+python3 gemfeed.py -a Fracchiomon -b gemini://fmpoerio.eu/blog/ -d ../fmpoerio.eu/blog/articles/ -t Un po' di tutto, detto male. -s Un piccolo gemlog a cavallo tra musica, depressione e shitposting
