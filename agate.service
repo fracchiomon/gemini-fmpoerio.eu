@@ -1,0 +1,10 @@
+[Unit]
+Description=Agate Gemini server
+After=network.target
+
+[Service]
+User=root
+ExecStart=/bin/agate --content /home/pi/gemini-fmpoerio.eu/ --certs /home/pi/.certs/.certificates/ --addr [::]:1965 --hostname fmpoerio.eu --hostname en.fmpoerio.eu --lang it_IT
+
+[Install]
+WantedBy=multi-user.target
