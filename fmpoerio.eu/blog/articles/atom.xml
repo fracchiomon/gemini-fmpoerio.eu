@@ -46,4 +46,10 @@
 	  <updated>2021-10-31T00:00:00+00:00</updated>
 	  <link href="gemini://fmpoerio.eu/blog/articles/2021-10-31.gmi" rel="alternate"/>
   </entry>
+	<entry>
+		<id>gemini://fmpoerio.eu/blog/articles/2021-11-04.gmi</id>
+		<title>Nuovo (vecchio) capello, e ritorni a casa.</title>
+		<updated>2021-11-04T00:00:00+00:00</updated>
+		<link href="gemini://fmpoerio.eu/blog/articles/2021-11-04.gmi" rel="alternate"/>
+	</entry>
 </feed>
