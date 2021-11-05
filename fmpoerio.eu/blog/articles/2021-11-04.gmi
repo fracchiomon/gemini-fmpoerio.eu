@@ -9,5 +9,5 @@ Fracchio
 ## 
 => ../../images/capellonuovo.jpg Il Capello Nuovo
 
-=> ../blog.gmi Torna al Blog
+=> ./atom.xml Torna al Blog
 => gemini://fmpoerio.eu Homepage

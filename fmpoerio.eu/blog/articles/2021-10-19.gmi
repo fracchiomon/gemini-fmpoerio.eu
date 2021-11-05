@@ -6,7 +6,7 @@ E' bello essere in orbita!
 
 Stay tuned.
 
-## Fracchio
+Fracchio
 
-=> gemini://fmpoerio.eu/index.gmi Homepage
 => gemini://fmpoerio.eu/blog/blog.gmi Torna al Blog
+=> gemini://fmpoerio.eu/index.gmi Homepage
