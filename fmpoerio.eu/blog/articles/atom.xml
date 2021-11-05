@@ -10,46 +10,54 @@
   <link href="gemini://fmpoerio.eu/blog/articles/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Un piccolo gemlog a cavallo tra musica, depressione e shitposting</subtitle>
-  <entry>
-    <id>gemini://fmpoerio.eu/blog/articles/2021-10-18.gmi</id>
-    <title>Lanci, lezioni e materia bianca</title>
-    <updated>2021-10-18T00:00:00+00:00</updated>
-    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-18.gmi" rel="alternate"/>
-  </entry>
-  <entry>
-    <id>gemini://fmpoerio.eu/blog/articles/2021-10-19.gmi</id>
-    <title>It's On!</title>
-    <updated>2021-10-19T00:00:00+00:00</updated>
-    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-19.gmi" rel="alternate"/>
-  </entry>
-  <entry>
-    <id>gemini://fmpoerio.eu/blog/articles/2021-10-20.gmi</id>
-    <title>"Oggi vince Bruno"</title>
-    <updated>2021-10-20T00:00:00+00:00</updated>
-    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-20.gmi" rel="alternate"/>
-  </entry>
-  <entry>
-    <id>gemini://fmpoerio.eu/blog/articles/2021-10-21.gmi</id>
-    <title>Quando la curva riprende la sua discesa</title>
-    <updated>2021-10-21T00:00:00+00:00</updated>
-    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-21.gmi" rel="alternate"/>
-  </entry>
-  <entry>
-    <id>gemini://fmpoerio.eu/blog/articles/2021-10-24.gmi</id>
-    <title>Tempo perso</title>
-    <updated>2021-10-24T00:00:00+00:00</updated>
-    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-24.gmi" rel="alternate"/>
-  </entry>
-  <entry>
-	  <id>gemini://fmpoerio.eu/blog/articles/2021-10-31.gmi</id>
-	  <title>Quando Halloween te lo ritrovi dentro non è mai un bello spettacolo</title>
-	  <updated>2021-10-31T00:00:00+00:00</updated>
-	  <link href="gemini://fmpoerio.eu/blog/articles/2021-10-31.gmi" rel="alternate"/>
-  </entry>
+  
 	<entry>
 		<id>gemini://fmpoerio.eu/blog/articles/2021-11-04.gmi</id>
 		<title>Nuovo (vecchio) capello, e ritorni a casa.</title>
 		<updated>2021-11-04T00:00:00+00:00</updated>
 		<link href="gemini://fmpoerio.eu/blog/articles/2021-11-04.gmi" rel="alternate"/>
 	</entry>
+
+  <entry>
+	  <id>gemini://fmpoerio.eu/blog/articles/2021-10-31.gmi</id>
+	  <title>Quando Halloween te lo ritrovi dentro non è mai un bello spettacolo</title>
+	  <updated>2021-10-31T00:00:00+00:00</updated>
+	  <link href="gemini://fmpoerio.eu/blog/articles/2021-10-31.gmi" rel="alternate"/>
+  </entry>
+
+  <entry>
+    <id>gemini://fmpoerio.eu/blog/articles/2021-10-24.gmi</id>
+    <title>Tempo perso</title>
+    <updated>2021-10-24T00:00:00+00:00</updated>
+    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-24.gmi" rel="alternate"/>
+  </entry>
+
+  <entry>
+    <id>gemini://fmpoerio.eu/blog/articles/2021-10-21.gmi</id>
+    <title>Quando la curva riprende la sua discesa</title>
+    <updated>2021-10-21T00:00:00+00:00</updated>
+    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-21.gmi" rel="alternate"/>
+  </entry>
+
+  <entry>
+    <id>gemini://fmpoerio.eu/blog/articles/2021-10-20.gmi</id>
+    <title>"Oggi vince Bruno"</title>
+    <updated>2021-10-20T00:00:00+00:00</updated>
+    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-20.gmi" rel="alternate"/>
+  </entry>
+  
+  <entry>
+    <id>gemini://fmpoerio.eu/blog/articles/2021-10-19.gmi</id>
+    <title>It's On!</title>
+    <updated>2021-10-19T00:00:00+00:00</updated>
+    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-19.gmi" rel="alternate"/>
+  </entry>
+
+  <entry>
+    <id>gemini://fmpoerio.eu/blog/articles/2021-10-18.gmi</id>
+    <title>Lanci, lezioni e materia bianca</title>
+    <updated>2021-10-18T00:00:00+00:00</updated>
+    <link href="gemini://fmpoerio.eu/blog/articles/2021-10-18.gmi" rel="alternate"/>
+  </entry>
+  
 </feed>
