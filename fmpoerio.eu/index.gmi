@@ -51,3 +51,7 @@ UPDATE (Dicembre 2021): Il server ha ripreso a funzionare! Un vecchissimo Fujits
 * CPU: Intel Pentium Dual E2160 @ 1.8 GHz
 * RAM: DDR2 2GB
 => images/serverino.jpg Foto del Server
+
+RE-UPDATE (19-12-2021): Un altro RAM-failure sul serverino, il che vuol dire che probabilmente dovrò cambiare le bacchette di RAM, e si torna momentaneamente al Raspberry.
+
+Che. Palle.
