@@ -6,7 +6,5 @@ Stasera ha vinto Bruno.
 
 Fracchio
 
---------------------------------------------------------------------------------
-
-=> gemini://fmpoerio.eu/ Homepage
 => gemini://fmpoerio.eu/blog/blog.gmi Torna al Blog
+=> gemini://fmpoerio.eu/ Homepage

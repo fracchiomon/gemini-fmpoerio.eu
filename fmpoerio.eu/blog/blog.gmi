@@ -13,6 +13,7 @@ Buon proseguimento.  ♡
 
 ## Blog Posts
 
+=> articles/2021-11-04.gmi 2021-11-04: Nuovi (vecchi) capelli, e ritorni a casa.
 => articles/2021-10-31.gmi 2021-10-31: Quando Halloween te lo ritrovi dentro non è mai un bello spettacolo
 => articles/2021-10-24.gmi 2021-10-24: Tempo perso
 => articles/2021-10-21.gmi 2021-10-21: Quando la curva inizia la sua discesa

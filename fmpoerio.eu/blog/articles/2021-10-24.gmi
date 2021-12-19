@@ -35,3 +35,6 @@ calcola stavo a fini de fa na cosa per matteo e me chiedeva il suo voto di diplo
 Niente parole, solo bestemmie.
 
 Fracchio
+
+=> ./atom.xml Torna al Blog
+=> ../../index.gmi Homepage
