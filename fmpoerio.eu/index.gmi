@@ -41,7 +41,13 @@ Vorrei dirlo io, ma lascio a chi ci è già da prima, e lo sa spiegare meglio di
 
 ## Dove gira 'sto coso?
 
-Al momento della stesura (21-10-2021) il mio server fac-simile mi ha abbandonato causa RAM-failure, ergo la sistemazione di emergenza è composta da:
+Al momento della stesura (21-10-2021) il mio server fac-simile mi aveva abbandonato causa RAM-failure, ergo la sistemazione di emergenza è composta da:
 * RaspberryPi 3B+
 * OS: Raspbian (Debian Buster) 64bit
 * Server: Agate (RUST) 3.1.2
+
+UPDATE (Dicembre 2021): Il server ha ripreso a funzionare! Un vecchissimo Fujitsu ESPRIMO con:
+* OS: Ubuntu Server 20.04
+* CPU: Intel Pentium Dual E2160 @ 1.8 GHz
+* RAM: DDR2 2GB
+=> images/serverino.jpg Foto del Server

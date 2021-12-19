@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>gemini://fmpoerio.eu/blog/articles/</id>
@@ -10,7 +11,13 @@
   <link href="gemini://fmpoerio.eu/blog/articles/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>Un piccolo gemlog a cavallo tra musica, depressione e shitposting</subtitle>
-  
+  <entry>
+	  <id>gemini://fmpoerio.eu/blog/articles/2021-12-19.gmi</id>
+	  <title>Mi dispiace per l'assenza (di nuovo).</title>
+	  <updated>2021-12-19T00:00:00+00:00</updated>
+	  <link href="gemini://fmpoerio.eu/blog/articles/2021-12-19.gmi" rel="alternate"/>
+  </entry>
+
 	<entry>
 		<id>gemini://fmpoerio.eu/blog/articles/2021-11-04.gmi</id>
 		<title>Nuovo (vecchio) capello, e ritorni a casa.</title>

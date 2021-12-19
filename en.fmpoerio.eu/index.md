@@ -35,7 +35,14 @@ I could tell it myself, but others can do it much better than me:
 
 ### What am I running this thing on?
 
-At the moment of writing (10-22-2021) my fac-simile server has left me because of a RAM failure, so I'm running in emergency mode:  
+At the moment of writing (10-22-2021) my fac-simile server had left me because of a RAM failure, so I'm running in emergency mode:  
 * RaspberryPi 3B+
 * OS: Raspbian (Debian Buster) 64bit
 * Server: Agate(RUST) 3.1.2
+
+UPDATE (December 2021): Server is up and running again, after some tinkering. It's an old Fujitsu ESPRIMO with:
+* OS: Ubuntu Server 20.04
+* CPU: Intel Pentium Dual E2160 @ 1.8 GHz
+* RAM: DDR2 2GB
+[Server Photo](images/serverino.jpg)
+
