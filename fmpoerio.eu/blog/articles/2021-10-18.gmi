@@ -14,6 +14,6 @@ Fracchio
 
 ---------------------------------------------
 
-=> gemini://fmpoerio.eu/blog/blog.gmi Torna Al Blog
+=> gemini://fmpoerio.eu/blog/articles/atom.xml Torna Al Blog
 => gemini://fmpoerio.eu/index.gmi Homepage
 

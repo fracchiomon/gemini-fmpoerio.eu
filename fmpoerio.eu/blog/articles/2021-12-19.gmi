@@ -27,6 +27,6 @@ Fracchio
 
 --------------------------------------------------------------------------------
 
-=> ../blog.gmi Torna al Blog
+=> ../atom.xml Torna al Blog
 
 => ../../index.gmi Homepage
